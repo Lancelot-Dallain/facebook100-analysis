@@ -1,7 +1,6 @@
 # Analyse des Réseaux Sociaux Facebook100
 
 Lancelot Dallain  
-Master TRIED  
 Janvier 2026
 
 ## Description
@@ -71,6 +70,3 @@ Jeu de données Facebook100 : 100 réseaux sociaux universitaires (septembre 200
 
 Python 3.12+, NetworkX, NumPy, pandas, matplotlib, seaborn
 
-## Rapport
-
-Le rapport complet est disponible dans `homework_report.tex`.
